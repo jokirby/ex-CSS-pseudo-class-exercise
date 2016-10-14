@@ -1,0 +1,15 @@
+li {
+	display: inline;
+	text-decoration: none;
+}
+
+span {
+	display: block;
+	border: solid black 1px;
+	margin: 25px;
+}
+
+.n-child section:nth-child(even) {
+	border: solid black 1px;
+}
+
